@@ -1,4 +1,5 @@
 # leetcode
+All the code could be directly pasted into leetcode and run. For the problems without a solution link, they would be solved in the near future.
 
 | Number    |    Problem Name | Difficulty
 |-----------|-----------------|------------
