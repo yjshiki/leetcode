@@ -1,5 +1,5 @@
 # leetcode
-All the code could be directly pasted into leetcode and run. For the problems without a solution link, they would be solved in the near future.Currently all the solutions are written in java.
+All the code could be directly pasted into leetcode and run. For the problems without a solution link, they would be solved in the near future. Currently all the solutions are written in java.
 
 | Number    |    Problem Name | Difficulty
 |-----------|-----------------|------------
