@@ -8,7 +8,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |3          |Longest Substring Without Repeating Characters|[lengthOfLongestSubstring.java](https://github.com/yjshiki/leetcode/blob/master/code/java/lengthOfLongestSubstring.java)| |Medium
 |4     		|Median of Two Sorted Arrays         | | |Hard
 |5      |Longest Palindromic Substring|[longestPalindrome.java](https://github.com/yjshiki/leetcode/blob/master/code/java/longestPalindrome.java)|  |Medium
-|6          |ZigZag Conversion||[zigzag_convert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/zigzag_convert.py)|Medium
+|6          |ZigZag Conversion|[convert.java](https://github.com/yjshiki/leetcode/blob/master/code/java/convert.java)|[zigzag_convert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/zigzag_convert.py)|Medium
 |7          |Reverse Integer|[reverse.java](https://github.com/yjshiki/leetcode/blob/master/code/java/reverse.java)||Easy
 |8          |String to Integer (atoi)|[myAtoi.java](https://github.com/yjshiki/leetcode/blob/master/code/java/myAtoi.java)| |Medium
 |9          |Palindrome Number|[isPalindrome.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isPalindrome.java)|  |Easy
