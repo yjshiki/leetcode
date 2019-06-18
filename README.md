@@ -3,18 +3,18 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 
 | Number    |    Problem Name | Java |Python|  Difficulty
 |:-----------:|-----------------|:------------:|:-----:|:-------:
-|1     		|Two Sum|[TwoSum.java](https://github.com/yjshiki/leetcode/blob/master/code/TwoSum.java)   |     | Easy
-|2          |Add Two Numbers|[twoSum.java](https://github.com/yjshiki/leetcode/blob/master/code/twoSum.java)|  |Medium
-|3          |Longest Substring Without Repeating Characters|[lengthOfLongestSubstring.java](https://github.com/yjshiki/leetcode/blob/master/code/lengthOfLongestSubstring.java)| |Medium
+|1     		|Two Sum|[TwoSum.java](https://github.com/yjshiki/leetcode/blob/master/code/java/TwoSum.java)   |     | Easy
+|2          |Add Two Numbers|[twoSum.java](https://github.com/yjshiki/leetcode/blob/master/code/java/twoSum.java)|  |Medium
+|3          |Longest Substring Without Repeating Characters|[lengthOfLongestSubstring.java](https://github.com/yjshiki/leetcode/blob/master/code/java/lengthOfLongestSubstring.java)| |Medium
 |4     		|Median of Two Sorted Arrays         | | |Hard
-|5      |Longest Palindromic Substring|[longestPalindrome.java](https://github.com/yjshiki/leetcode/blob/master/code/longestPalindrome.java)|  |Medium
+|5      |Longest Palindromic Substring|[longestPalindrome.java](https://github.com/yjshiki/leetcode/blob/master/code/java/longestPalindrome.java)|  |Medium
 |6          |ZigZag Conversion|||Medium
-|7          |Reverse Integer|[reverse.java](https://github.com/yjshiki/leetcode/blob/master/code/reverse.java)||Easy
-|8          |String to Integer (atoi)|[myAtoi.java](https://github.com/yjshiki/leetcode/blob/master/code/myAtoi.java)| |Medium
-|9          |Palindrome Number|[isPalindrome.java](https://github.com/yjshiki/leetcode/blob/master/code/isPalindrome.java)|  |Easy
+|7          |Reverse Integer|[reverse.java](https://github.com/yjshiki/leetcode/blob/master/code/java/reverse.java)||Easy
+|8          |String to Integer (atoi)|[myAtoi.java](https://github.com/yjshiki/leetcode/blob/master/code/java/myAtoi.java)| |Medium
+|9          |Palindrome Number|[isPalindrome.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isPalindrome.java)|  |Easy
 |10          |Regular Expression Matching | | | Hard
-|11          |Container With Most Water|[maxArea.java](https://github.com/yjshiki/leetcode/blob/master/code/maxArea.java)|  |Medium
-|12          |Integer to Roman|[intToRoman.java](https://github.com/yjshiki/leetcode/blob/master/code/intToRoman.java)|  |Medium
-|13          |Roman to Integer|[romanToInt.java](https://github.com/yjshiki/leetcode/blob/master/code/romanToInt.java)| |Easy
-|14          |Longest Common Prefix|[longestCommonPrefix.java](https://github.com/yjshiki/leetcode/blob/master/code/longestCommonPrefix.java)| |Easy
+|11          |Container With Most Water|[maxArea.java](https://github.com/yjshiki/leetcode/blob/master/code/java/maxArea.java)|  |Medium
+|12          |Integer to Roman|[intToRoman.java](https://github.com/yjshiki/leetcode/blob/master/code/java/intToRoman.java)|  |Medium
+|13          |Roman to Integer|[romanToInt.java](https://github.com/yjshiki/leetcode/blob/master/code/java/romanToInt.java)| |Easy
+|14          |Longest Common Prefix|[longestCommonPrefix.java](https://github.com/yjshiki/leetcode/blob/master/code/java/longestCommonPrefix.java)| |Easy
 |15          |3Sum | |  |Medium
