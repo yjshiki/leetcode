@@ -18,3 +18,4 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |13          |Roman to Integer|[romanToInt.java](https://github.com/yjshiki/leetcode/blob/master/code/java/romanToInt.java)| |Easy
 |14          |Longest Common Prefix|[longestCommonPrefix.java](https://github.com/yjshiki/leetcode/blob/master/code/java/longestCommonPrefix.java)| |Easy
 |15          |3Sum | |  |Medium
+|26| Remove Duplicates from Sorted Array|[removeDuplicates.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeDuplicates.java)||Easy
