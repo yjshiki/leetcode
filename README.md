@@ -20,4 +20,5 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |15          |3Sum | |  |Medium
 |26| Remove Duplicates from Sorted Array|[removeDuplicates.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeDuplicates.java)|[removeDuplicates.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeDuplicates.py)|Easy
 |27|Remove Element|[removeElement.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeElement.java)|[removeElement.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeElement.py)|Easy
+|28|Implement strStr()|[strStr.java](https://github.com/yjshiki/leetcode/blob/master/code/java/strStr.java)|[strStr.py](https://github.com/yjshiki/leetcode/blob/master/code/python/strStr.py)|Easy
 |35|Search Insert Position|[searchInsert.java](https://github.com/yjshiki/leetcode/blob/master/code/java/searchInsert.java)|[searchInsert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/searchInsert.py)|Easy
