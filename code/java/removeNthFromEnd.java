@@ -14,10 +14,10 @@ class Solution {
         
         p.next = head;
         p2.next = head;
-        dummy.next = p;
+        dummy = p;
         int total = 0;
         int i = 0;
-        
+       
         while(p2.next != null){
             total ++;
             p2 = p2.next;
@@ -30,6 +30,7 @@ class Solution {
             p = p.next;
         }
         
-        return dummy.next.next;
+        return dummy.next;
+        
     }
 }
