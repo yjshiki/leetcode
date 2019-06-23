@@ -11,7 +11,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |6          |ZigZag Conversion|[convert.java](https://github.com/yjshiki/leetcode/blob/master/code/java/convert.java)|[zigzag_convert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/zigzag_convert.py)|Medium
 |7          |Reverse Integer|[reverse.java](https://github.com/yjshiki/leetcode/blob/master/code/java/reverse.java)|[reverse.py](https://github.com/yjshiki/leetcode/blob/master/code/python/reverse.py)|Easy
 |8          |String to Integer (atoi)|[myAtoi.java](https://github.com/yjshiki/leetcode/blob/master/code/java/myAtoi.java)| |Medium
-|9          |Palindrome Number|[isPalindrome.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isPalindrome.java)|  |Easy
+|9          |Palindrome Number|[isPalindrome.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isPalindrome.java)|[isPalindrome.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isPalindrome.py)  |Easy
 |10          |Regular Expression Matching | | | Hard
 |11          |Container With Most Water|[maxArea.java](https://github.com/yjshiki/leetcode/blob/master/code/java/maxArea.java)|  |Medium
 |12          |Integer to Roman|[intToRoman.java](https://github.com/yjshiki/leetcode/blob/master/code/java/intToRoman.java)|  |Medium
