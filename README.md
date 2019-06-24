@@ -24,6 +24,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |27|Remove Element|[removeElement.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeElement.java)|[removeElement.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeElement.py)|Easy
 |28|Implement strStr()|[strStr.java](https://github.com/yjshiki/leetcode/blob/master/code/java/strStr.java)|[strStr.py](https://github.com/yjshiki/leetcode/blob/master/code/python/strStr.py)|Easy
 |35|Search Insert Position|[searchInsert.java](https://github.com/yjshiki/leetcode/blob/master/code/java/searchInsert.java)|[searchInsert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/searchInsert.py)|Easy
+|36|Valid Sudoku|[]()|[isValidSudoku.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isValidSudoku.py)|Medium
 
 Here are some others' solutions that are quite impressive and worth learning.
 
