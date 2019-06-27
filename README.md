@@ -4,7 +4,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 | Number    |    Problem Name | Java |Python|  Difficulty|
 |:-----------:|-----------------|:------------:|:-----:|:-------:|
 |1     		|Two Sum|[twoSum.java](https://github.com/yjshiki/leetcode/blob/master/code/java/twoSum.java)   |[twoSum.py](https://github.com/yjshiki/leetcode/blob/master/code/python/twoSum.py)     | Easy
-|2          |Add Two Numbers|[addTwoNumbers.java](https://github.com/yjshiki/leetcode/blob/master/code/java/addTwoNumbers.java)|  |Medium
+|2          |Add Two Numbers|[addTwoNumbers.java](https://github.com/yjshiki/leetcode/blob/master/code/java/addTwoNumbers.java)|[addTwoNumbers.py](https://github.com/yjshiki/leetcode/blob/master/code/python/addTwoNumbers.py)  |Medium
 |3          |Longest Substring Without Repeating Characters|[lengthOfLongestSubstring.java](https://github.com/yjshiki/leetcode/blob/master/code/java/lengthOfLongestSubstring.java)| |Medium
 |4     		|Median of Two Sorted Arrays         | | |Hard
 |5      |Longest Palindromic Substring|[longestPalindrome.java](https://github.com/yjshiki/leetcode/blob/master/code/java/longestPalindrome.java)|  |Medium
