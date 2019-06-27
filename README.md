@@ -17,16 +17,26 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |12          |Integer to Roman|[intToRoman.java](https://github.com/yjshiki/leetcode/blob/master/code/java/intToRoman.java)|[intToRoman.py](https://github.com/yjshiki/leetcode/blob/master/code/python/intToRoman.py)  |Medium
 |13          |Roman to Integer|[romanToInt.java](https://github.com/yjshiki/leetcode/blob/master/code/java/romanToInt.java)|[romanToInt.py](https://github.com/yjshiki/leetcode/blob/master/code/python/romanToInt.py) |Easy
 |14          |Longest Common Prefix|[longestCommonPrefix.java](https://github.com/yjshiki/leetcode/blob/master/code/java/longestCommonPrefix.java)| |Easy
-|15          |3Sum | |  |Medium
+|15          |3Sum | |  |Medium|
 |16|3Sum Closest| | |Medium
 |17          |Letter Combinations of a Phone Number    | |[letterCombinations.py](https://github.com/yjshiki/leetcode/blob/master/code/python/letterCombinations.py)|Medium
 |18 |4Sum| | |Medium
 |19|Remove Nth Node From End of List |[removeNthFromEnd.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeNthFromEnd.java)|[removeNthFromEnd.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeNthFromEnd.py)|Medium
 |20|Valid Parentheses| | |Easy
 |21| Merge Two Sorted Lists|[mergeTwoLists.java](https://github.com/yjshiki/leetcode/blob/master/code/java/mergeTwoLists.java)|[mergeTwoLists.py](https://github.com/yjshiki/leetcode/blob/master/code/python/mergeTwoLists.py)|Easy
+|22| Generate Parentheses|  | | Medium
+|23| Merge k Sorted Lists| | |Hard
+|24| Swap Nodes in Pairs| | |Medium
+|25| Reverse Nodes in k-Group| | |Hard
 |26| Remove Duplicates from Sorted Array|[removeDuplicates.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeDuplicates.java)|[removeDuplicates.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeDuplicates.py)|Easy
 |27|Remove Element|[removeElement.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeElement.java)|[removeElement.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeElement.py)|Easy
 |28|Implement strStr()|[strStr.java](https://github.com/yjshiki/leetcode/blob/master/code/java/strStr.java)|[strStr.py](https://github.com/yjshiki/leetcode/blob/master/code/python/strStr.py)|Easy
+|29|Divide Two Integers| | |Medium
+|30|Substring with Concatenation of All Words| | |Hard
+|31|Next Permutation| | |Medium
+|32|Longest Valid Parentheses| | |Hard
+|33|Search in Rotated Sorted Array| | |Medium
+|34|Find First and Last Position of Element in Sorted Array| | |Medium
 |35|Search Insert Position|[searchInsert.java](https://github.com/yjshiki/leetcode/blob/master/code/java/searchInsert.java)|[searchInsert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/searchInsert.py)|Easy
 |36|Valid Sudoku|[]()|[isValidSudoku.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isValidSudoku.py)|Medium
 
