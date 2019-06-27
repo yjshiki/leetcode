@@ -22,7 +22,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |17          |Letter Combinations of a Phone Number    | |[letterCombinations.py](https://github.com/yjshiki/leetcode/blob/master/code/python/letterCombinations.py)|Medium
 |18 |4Sum| |[fourSum.py](https://github.com/yjshiki/leetcode/blob/master/code/python/fourSum.py) |Medium
 |19|Remove Nth Node From End of List |[removeNthFromEnd.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeNthFromEnd.java)|[removeNthFromEnd.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeNthFromEnd.py)|Medium
-|20|Valid Parentheses| | |Easy
+|20|Valid Parentheses| |[isValid.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isValid.py) |Easy
 |21| Merge Two Sorted Lists|[mergeTwoLists.java](https://github.com/yjshiki/leetcode/blob/master/code/java/mergeTwoLists.java)|[mergeTwoLists.py](https://github.com/yjshiki/leetcode/blob/master/code/python/mergeTwoLists.py)|Easy
 |22| Generate Parentheses|  | | Medium
 |23| Merge k Sorted Lists| | |Hard
