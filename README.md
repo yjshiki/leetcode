@@ -18,7 +18,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |13          |Roman to Integer|[romanToInt.java](https://github.com/yjshiki/leetcode/blob/master/code/java/romanToInt.java)|[romanToInt.py](https://github.com/yjshiki/leetcode/blob/master/code/python/romanToInt.py) |Easy
 |14          |Longest Common Prefix|[longestCommonPrefix.java](https://github.com/yjshiki/leetcode/blob/master/code/java/longestCommonPrefix.java)| |Easy
 |15          |3Sum |[threeSum.java](https://github.com/yjshiki/leetcode/blob/master/code/java/threeSum.java) |[threeSum.py](https://github.com/yjshiki/leetcode/blob/master/code/python/threeSum.py)  |Medium|
-|16|3Sum Closest| |[threeSumClosest.py](https://github.com/yjshiki/leetcode/blob/master/code/python/threeSumClosest.py) |Medium
+|16|3Sum Closest|[threeSumClosest.java](https://github.com/yjshiki/leetcode/blob/master/code/java/threeSumClosest.java) |[threeSumClosest.py](https://github.com/yjshiki/leetcode/blob/master/code/python/threeSumClosest.py) |Medium
 |17          |Letter Combinations of a Phone Number    |[letterCombinations.java](https://github.com/yjshiki/leetcode/blob/master/code/java/letterCombinations.java) |[letterCombinations.py](https://github.com/yjshiki/leetcode/blob/master/code/python/letterCombinations.py)|Medium
 |18 |4Sum|[fourSum.java](https://github.com/yjshiki/leetcode/blob/master/code/java/fourSum) |[fourSum.py](https://github.com/yjshiki/leetcode/blob/master/code/python/fourSum.py) |Medium
 |19|Remove Nth Node From End of List |[removeNthFromEnd.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeNthFromEnd.java)|[removeNthFromEnd.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeNthFromEnd.py)|Medium
