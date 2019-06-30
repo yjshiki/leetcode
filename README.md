@@ -41,6 +41,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |36|Valid Sudoku|[]()|[isValidSudoku.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isValidSudoku.py)|Medium
 |58| Length of Last Word |[]()|[lengthOfLastWord.py](https://github.com/yjshiki/leetcode/blob/master/code/python/lengthOfLastWord.py)|Easy
 |66| Plus One|[]()|[plusOne.py](https://github.com/yjshiki/leetcode/blob/master/code/python/plusOne.py)|Easy
+|67| Add Binary|[]()|[addBinary.py](https://github.com/yjshiki/leetcode/blob/master/code/python/addBinary.py)|Easy
 
 Here are some others' solutions that are quite impressive and worth learning.
 
