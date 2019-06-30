@@ -1,5 +1,6 @@
 class Solution:
     def removeDuplicatesII(self, nums: List[int]) -> int:
+    '''The function name was changed to avoid duplicate in file names'''
         index = 1
         length = len(nums)
         if length <= 1:
