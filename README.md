@@ -40,7 +40,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |35|Search Insert Position|[searchInsert.java](https://github.com/yjshiki/leetcode/blob/master/code/java/searchInsert.java)|[searchInsert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/searchInsert.py)|Easy
 |36|Valid Sudoku|[]()|[isValidSudoku.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isValidSudoku.py)|Medium
 |58| Length of Last Word |[]()|[lengthOfLastWord.py](https://github.com/yjshiki/leetcode/blob/master/code/python/lengthOfLastWord.py)|Easy
-|66| Plus One|[]()|[plusOne.py](https://github.com/yjshiki/leetcode/blob/master/code/python/plusOne.py)|Easy
+|66| Plus One|[plusOne.java](https://github.com/yjshiki/leetcode/blob/master/code/java/plusOne.java)|[plusOne.py](https://github.com/yjshiki/leetcode/blob/master/code/python/plusOne.py)|Easy
 |67| Add Binary|[]()|[addBinary.py](https://github.com/yjshiki/leetcode/blob/master/code/python/addBinary.py)|Easy
 |69|Sqrt(x)|[]()|[mySqrt.py](https://github.com/yjshiki/leetcode/blob/master/code/python/mySqrt.py)|Easy
 |70|Climbing Stairs|[]()|[climbStairs.py](https://github.com/yjshiki/leetcode/blob/master/code/python/climbStairs.py)|Easy
