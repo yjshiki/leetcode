@@ -40,6 +40,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |35|Search Insert Position|[searchInsert.java](https://github.com/yjshiki/leetcode/blob/master/code/java/searchInsert.java)|[searchInsert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/searchInsert.py)|Easy
 |36|Valid Sudoku|[]()|[isValidSudoku.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isValidSudoku.py)|Medium
 |58| Length of Last Word |[]()|[lengthOfLastWord.py](https://github.com/yjshiki/leetcode/blob/master/code/python/lengthOfLastWord.py)|Easy
+|66| Plus One|[]()|[plusOne.py](https://github.com/yjshiki/leetcode/blob/master/code/python/plusOne.py)|Easy
 
 Here are some others' solutions that are quite impressive and worth learning.
 
