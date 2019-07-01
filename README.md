@@ -46,7 +46,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |67| Add Binary|[]()|[addBinary.py](https://github.com/yjshiki/leetcode/blob/master/code/python/addBinary.py)|Easy
 |69|Sqrt(x)|[mySqrt.java](https://github.com/yjshiki/leetcode/blob/master/code/java/mySqrt.java)|[mySqrt.py](https://github.com/yjshiki/leetcode/blob/master/code/python/mySqrt.py)|Easy
 |70|Climbing Stairs|[climbStairs.java](https://github.com/yjshiki/leetcode/blob/master/code/java/climbStairs.java)|[climbStairs.py](https://github.com/yjshiki/leetcode/blob/master/code/python/climbStairs.py)|Easy
-|75|Sort Colors |[sortColors.java](https://github.com/yjshiki/leetcode/blob/master/code/java/sortColors.java) |[]()|Medium
+|75|Sort Colors |[sortColors.java](https://github.com/yjshiki/leetcode/blob/master/code/java/sortColors.java) |[sortColors.py](https://github.com/yjshiki/leetcode/blob/master/code/python/sortColors.py)|Medium
 |80|Remove Duplicates from Sorted Array II |[removeDuplicatesII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeDuplicatesII.java)|[removeDuplicatesII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeDuplicatesII.py)|Medium
 
 Here are some others' solutions that are quite impressive and worth learning.
