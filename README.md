@@ -35,7 +35,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |30|Substring with Concatenation of All Words| | |Hard
 |31|Next Permutation| | |Medium
 |32|Longest Valid Parentheses| | |Hard
-|33|Search in Rotated Sorted Array| | |Medium
+|33|Search in Rotated Sorted Array| |[search.py](https://github.com/yjshiki/leetcode/blob/master/code/python/search.py) |Medium
 |34|Find First and Last Position of Element in Sorted Array| | |Medium
 |35|Search Insert Position|[searchInsert.java](https://github.com/yjshiki/leetcode/blob/master/code/java/searchInsert.java)|[searchInsert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/searchInsert.py)|Easy
 |36|Valid Sudoku|[]()|[isValidSudoku.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isValidSudoku.py)|Medium
