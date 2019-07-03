@@ -39,8 +39,8 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |34|Find First and Last Position of Element in Sorted Array| | |Medium
 |35|Search Insert Position|[searchInsert.java](https://github.com/yjshiki/leetcode/blob/master/code/java/searchInsert.java)|[searchInsert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/searchInsert.py)|Easy
 |36|Valid Sudoku|[]()|[isValidSudoku.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isValidSudoku.py)|Medium
-|55| Jump Game |[]()|[canJump.py](https://github.com/yjshiki/leetcode/blob/master/code/python/canJump.py)|Easy
-|58| Length of Last Word |[canJump.java](https://github.com/yjshiki/leetcode/blob/master/code/java/canJump.java)|[lengthOfLastWord.py](https://github.com/yjshiki/leetcode/blob/master/code/python/lengthOfLastWord.py)|Easy
+|55| Jump Game |[canJump.java](https://github.com/yjshiki/leetcode/blob/master/code/java/canJump.java)|[canJump.py](https://github.com/yjshiki/leetcode/blob/master/code/python/canJump.py)|Easy
+|58| Length of Last Word |[]()|[lengthOfLastWord.py](https://github.com/yjshiki/leetcode/blob/master/code/python/lengthOfLastWord.py)|Easy
 |62|Unique Paths|[uniquePaths.java](https://github.com/yjshiki/leetcode/blob/master/code/java/uniquePaths.java)|[uniquePaths.py](https://github.com/yjshiki/leetcode/blob/master/code/python/uniquePaths.py)|Medium
 |63|Unique Paths II |[uniquePathsWithObstacles.java](https://github.com/yjshiki/leetcode/blob/master/code/java/uniquePathsWithObstacles.java)|[uniquePathsWithObstacles.py](https://github.com/yjshiki/leetcode/blob/master/code/python/uniquePathsWithObstacles.py)|Medium
 |66| Plus One|[plusOne.java](https://github.com/yjshiki/leetcode/blob/master/code/java/plusOne.java)|[plusOne.py](https://github.com/yjshiki/leetcode/blob/master/code/python/plusOne.py)|Easy
