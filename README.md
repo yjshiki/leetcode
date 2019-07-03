@@ -24,7 +24,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |19|Remove Nth Node From End of List |[removeNthFromEnd.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeNthFromEnd.java)|[removeNthFromEnd.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeNthFromEnd.py)|Medium
 |20|Valid Parentheses|[isValid.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isValid.java) |[isValid.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isValid.py) |Easy
 |21| Merge Two Sorted Lists|[mergeTwoLists.java](https://github.com/yjshiki/leetcode/blob/master/code/java/mergeTwoLists.java)|[mergeTwoLists.py](https://github.com/yjshiki/leetcode/blob/master/code/python/mergeTwoLists.py)|Easy
-|22| Generate Parentheses|  | | Medium
+|22| Generate Parentheses|[generateParenthesis.java](https://github.com/yjshiki/leetcode/blob/master/code/java/generateParenthesis.java)  | | Medium
 |23| Merge k Sorted Lists| | |Hard
 |24| Swap Nodes in Pairs| | |Medium
 |25| Reverse Nodes in k-Group| | |Hard
