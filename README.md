@@ -50,7 +50,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |75|Sort Colors |[sortColors.java](https://github.com/yjshiki/leetcode/blob/master/code/java/sortColors.java) |[sortColors.py](https://github.com/yjshiki/leetcode/blob/master/code/python/sortColors.py)|Medium
 |80|Remove Duplicates from Sorted Array II |[removeDuplicatesII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeDuplicatesII.java)|[removeDuplicatesII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeDuplicatesII.py)|Medium
 |88|Merge Sorted Array|[merge.java](https://github.com/yjshiki/leetcode/blob/master/code/java/merge.java)|[merge.py](https://github.com/yjshiki/leetcode/blob/master/code/python/merge.py)|Easy
-|167|Two Sum II - Input array is sorted |[]()|[twoSumII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/twoSumII.py)|Easy
+|167|Two Sum II - Input array is sorted |[twoSumII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/twoSumII.java)|[twoSumII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/twoSumII.py)|Easy
 
 Here are some others' solutions that are quite impressive and worth learning.
 
