@@ -1,5 +1,5 @@
 class Solution {
-    public int singleNumber(int[] nums) {
+    public int singleNumberII(int[] nums) {
         if(nums.length == 1)
             return nums[0];
         Arrays.sort(nums);
