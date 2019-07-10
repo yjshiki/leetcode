@@ -1,5 +1,5 @@
 class Solution:
-    def isPalindrome(self, s: str) -> bool:
+    def validPalindrome(self, s: str) -> bool:
         if len(s) == 0:
             return True
         s = s.lower()
