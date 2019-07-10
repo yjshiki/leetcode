@@ -59,6 +59,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |171|Excel Sheet Column Number|[titleToNumber.java](https://github.com/yjshiki/leetcode/blob/master/code/java/titleToNumber.java)|[titleToNumber.py](https://github.com/yjshiki/leetcode/blob/master/code/python/titleToNumber.py)|Easy
 |215|Kth Largest Element in an Array |[findKthLargest.java](https://github.com/yjshiki/leetcode/blob/master/code/java/findKthLargest.java)|[findKthLargest.py](https://github.com/yjshiki/leetcode/blob/master/code/python/findKthLargest.py)|Medium
 |260|Single Number III|[singleNumberIII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/singleNumberIII.java)|[singleNumberIII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/singleNumberIII.py)|Medium
+|263|Ugly Number|[isUgly.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isUgly.java)|[isUgly.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isUgly.py)|Easy
 
 Here are some others' solutions that are quite impressive and worth learning.
 
