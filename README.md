@@ -62,6 +62,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |171|Excel Sheet Column Number|[titleToNumber.java](https://github.com/yjshiki/leetcode/blob/master/code/java/titleToNumber.java)|[titleToNumber.py](https://github.com/yjshiki/leetcode/blob/master/code/python/titleToNumber.py)|Easy
 |215|Kth Largest Element in an Array |[findKthLargest.java](https://github.com/yjshiki/leetcode/blob/master/code/java/findKthLargest.java)|[findKthLargest.py](https://github.com/yjshiki/leetcode/blob/master/code/python/findKthLargest.py)|Medium
 |229|Majority Element II|[majorityElementII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/majorityElementII.java)|[majorityElementII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/majorityElementII.py)|Medium
+|258|Add Digits |[addDigits.java](https://github.com/yjshiki/leetcode/blob/master/code/java/addDigits.java)|[addDigits.py](https://github.com/yjshiki/leetcode/blob/master/code/python/addDigits.py)|Easy
 |260|Single Number III|[singleNumberIII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/singleNumberIII.java)|[singleNumberIII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/singleNumberIII.py)|Medium
 |263|Ugly Number|[isUgly.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isUgly.java)|[isUgly.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isUgly.py)|Easy
 
