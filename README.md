@@ -60,6 +60,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |169|Majority Element |[majorityElement.java](https://github.com/yjshiki/leetcode/blob/master/code/java/majorityElement.java)|[majorityElement.py](https://github.com/yjshiki/leetcode/blob/master/code/python/majorityElement.py)|Easy
 |170|Two Sum III-Data structure design|question locked|question locked  |Easy
 |171|Excel Sheet Column Number|[titleToNumber.java](https://github.com/yjshiki/leetcode/blob/master/code/java/titleToNumber.java)|[titleToNumber.py](https://github.com/yjshiki/leetcode/blob/master/code/python/titleToNumber.py)|Easy
+|202|Happy Number|[isHappy.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isHappy.java)|[isHappy.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isHappy.py)|Easy
 |215|Kth Largest Element in an Array |[findKthLargest.java](https://github.com/yjshiki/leetcode/blob/master/code/java/findKthLargest.java)|[findKthLargest.py](https://github.com/yjshiki/leetcode/blob/master/code/python/findKthLargest.py)|Medium
 |229|Majority Element II|[majorityElementII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/majorityElementII.java)|[majorityElementII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/majorityElementII.py)|Medium
 |258|Add Digits |[addDigits.java](https://github.com/yjshiki/leetcode/blob/master/code/java/addDigits.java)|[addDigits.py](https://github.com/yjshiki/leetcode/blob/master/code/python/addDigits.py)|Easy
