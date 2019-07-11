@@ -66,6 +66,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |258|Add Digits |[addDigits.java](https://github.com/yjshiki/leetcode/blob/master/code/java/addDigits.java)|[addDigits.py](https://github.com/yjshiki/leetcode/blob/master/code/python/addDigits.py)|Easy
 |260|Single Number III|[singleNumberIII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/singleNumberIII.java)|[singleNumberIII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/singleNumberIII.py)|Medium
 |263|Ugly Number|[isUgly.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isUgly.java)|[isUgly.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isUgly.py)|Easy
+|268|Missing Number|[missingNumber.java](https://github.com/yjshiki/leetcode/blob/master/code/java/missingNumber.java)|[missingNumber.py](https://github.com/yjshiki/leetcode/blob/master/code/python/missingNumber.py)|Easy
 |283|Move Zeroes|[moveZeroes.java](https://github.com/yjshiki/leetcode/blob/master/code/java/moveZeroes.java)|[moveZeroes.py](https://github.com/yjshiki/leetcode/blob/master/code/python/moveZeroes.py)|Easy
 |292|Nim Game|[canWinNim.java](https://github.com/yjshiki/leetcode/blob/master/code/java/canWinNim.java)|[canWinNim.py](https://github.com/yjshiki/leetcode/blob/master/code/python/canWinNim.py)|Easy
 
