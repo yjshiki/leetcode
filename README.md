@@ -70,6 +70,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |263|Ugly Number|[isUgly.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isUgly.java)|[isUgly.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isUgly.py)|Easy
 |268|Missing Number|[missingNumber.java](https://github.com/yjshiki/leetcode/blob/master/code/java/missingNumber.java)|[missingNumber.py](https://github.com/yjshiki/leetcode/blob/master/code/python/missingNumber.py)|Easy
 |283|Move Zeroes|[moveZeroes.java](https://github.com/yjshiki/leetcode/blob/master/code/java/moveZeroes.java)|[moveZeroes.py](https://github.com/yjshiki/leetcode/blob/master/code/python/moveZeroes.py)|Easy
+|287|Find the Duplicate Number |[findDuplicate.java](https://github.com/yjshiki/leetcode/blob/master/code/java/findDuplicate.java)|[https://github.com/yjshiki/leetcode/blob/master/code/python/findDuplicate.py](findDuplicate.py)|Medium
 |292|Nim Game|[canWinNim.java](https://github.com/yjshiki/leetcode/blob/master/code/java/canWinNim.java)|[canWinNim.py](https://github.com/yjshiki/leetcode/blob/master/code/python/canWinNim.py)|Easy
 
 Here are some others' solutions that are quite impressive and worth learning.
