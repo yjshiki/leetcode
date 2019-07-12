@@ -16,8 +16,7 @@ class Solution {
             for(int j=0;j<res.size();j++){
                 temp = helper(res.get(j),nums[i]);
                 for(int q=0;q<temp.size();q++)
-                    newRes.add(temp.get(q));
-                
+                    newRes.add(temp.get(q));               
             }
             res = newRes;
             newRes = new ArrayList<List<Integer>>();
