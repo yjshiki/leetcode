@@ -73,6 +73,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |268|Missing Number|[missingNumber.java](https://github.com/yjshiki/leetcode/blob/master/code/java/missingNumber.java)|[missingNumber.py](https://github.com/yjshiki/leetcode/blob/master/code/python/missingNumber.py)|Easy
 |283|Move Zeroes|[moveZeroes.java](https://github.com/yjshiki/leetcode/blob/master/code/java/moveZeroes.java)|[moveZeroes.py](https://github.com/yjshiki/leetcode/blob/master/code/python/moveZeroes.py)|Easy
 |287|Find the Duplicate Number |[findDuplicate.java](https://github.com/yjshiki/leetcode/blob/master/code/java/findDuplicate.java)|[findDuplicate.py](findDuplicate.py)|Medium
+|290|Word Pattern|[wordPattern.java](https://github.com/yjshiki/leetcode/blob/master/code/java/wordPattern.java)|[wordPattern.py](https://github.com/yjshiki/leetcode/blob/master/code/python/wordPattern.py)|Easy
 |292|Nim Game|[canWinNim.java](https://github.com/yjshiki/leetcode/blob/master/code/java/canWinNim.java)|[canWinNim.py](https://github.com/yjshiki/leetcode/blob/master/code/python/canWinNim.py)|Easy
 
 Here are some others' solutions that are quite impressive and worth learning.
