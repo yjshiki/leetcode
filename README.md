@@ -59,6 +59,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |88|Merge Sorted Array|[merge.java](https://github.com/yjshiki/leetcode/blob/master/code/java/merge.java)|[merge.py](https://github.com/yjshiki/leetcode/blob/master/code/python/merge.py)|Easy
 |100|Same Tree|[isSameTree.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isSameTree.java)|[isSameTree.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isSameTree.py)|Easy
 |101|Symmetric Tree|[isSymmetric.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isSymmetric.java)|[isSymmetric.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isSymmetric.py)|Easy
+|104|Maximum Depth of Binary Tree |[maxDepth.java](https://github.com/yjshiki/leetcode/blob/master/code/java/maxDepth.java)|[maxDepth.py](https://github.com/yjshiki/leetcode/blob/master/code/python/maxDepth.py)|Easy
 |111|Minimum Depth of Binary Tree |[minDepth.java](https://github.com/yjshiki/leetcode/blob/master/code/java/minDepth.java)|[minDepth.py](https://github.com/yjshiki/leetcode/blob/master/code/python/minDepth.py)|Easy
 |112|Path Sum|[hasPathSum.java](https://github.com/yjshiki/leetcode/blob/master/code/java/hasPathSum.java)|[hasPathSum.py](https://github.com/yjshiki/leetcode/blob/master/code/python/hasPathSum.py)|Easy
 |125|Valid Palindrome |[validPalindrome.java](https://github.com/yjshiki/leetcode/blob/master/code/java/validPalindrome.java)|[validPalindrome.py](https://github.com/yjshiki/leetcode/blob/master/code/python/validPalindrome.py)|Easy
