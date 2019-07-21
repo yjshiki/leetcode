@@ -77,6 +77,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |151|Reverse Words in a String|[reverseWords.java](https://github.com/yjshiki/leetcode/blob/master/code/java/reverseWords.java)|[reverseWords.py](https://github.com/yjshiki/leetcode/blob/master/code/python/reverseWords.py)|Medium
 |152|Maximum Product Subarray|[maxProduct.java](https://github.com/yjshiki/leetcode/blob/master/code/java/maxProduct.java)|[maxProduct.py](https://github.com/yjshiki/leetcode/blob/master/code/python/maxProduct.py)|Medium
 |153|Find Minimum in Rotated Sorted Array|[findMin.java](https://github.com/yjshiki/leetcode/blob/master/code/java/findMin.java)|[findMin.py](https://github.com/yjshiki/leetcode/blob/master/code/python/findMin.py)|Medium
+|154|Find Minimum in Rotated Sorted Array II|||Medium
 |155|Min Stack|[MinStack.java](https://github.com/yjshiki/leetcode/blob/master/code/java/MinStack.java)|[MinStack.py](https://github.com/yjshiki/leetcode/blob/master/code/python/MinStack.py)|Medium
 |160|Intersection of Two Linked Lists|[getIntersectionNode.java](https://github.com/yjshiki/leetcode/blob/master/code/java/getIntersectionNode.java)|[getIntersectionNode.py](https://github.com/yjshiki/leetcode/blob/master/code/python/getIntersectionNode.py)|Easy
 |167|Two Sum II - Input array is sorted |[twoSumII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/twoSumII.java)|[twoSumII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/twoSumII.py)|Easy
