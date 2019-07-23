@@ -105,7 +105,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |292|Nim Game|[canWinNim.java](https://github.com/yjshiki/leetcode/blob/master/code/java/canWinNim.java)|[canWinNim.py](https://github.com/yjshiki/leetcode/blob/master/code/python/canWinNim.py)|Easy
 |771|Jewels and Stones|[numJewelsInStones.java](https://github.com/yjshiki/leetcode/blob/master/code/java/numJewelsInStones.java)|[numJewelsInStones.py](https://github.com/yjshiki/leetcode/blob/master/code/python/numJewelsInStones.py)|Easy
 |977|Squares of a Sorted Array|[sortedSquares.java](https://github.com/yjshiki/leetcode/blob/master/code/java/sortedSquares.java)|[sortedSquares.py](https://github.com/yjshiki/leetcode/blob/master/code/python/sortedSquares.py)|Easy
-|1002|Find Common Characters[commonChars.java](https://github.com/yjshiki/leetcode/blob/master/code/java/commonChars.java)|[commonChars.py](https://github.com/yjshiki/leetcode/blob/master/code/python/commonChars.py)|Easy
+|1002|Find Common Characters|[commonChars.java](https://github.com/yjshiki/leetcode/blob/master/code/java/commonChars.java)|[commonChars.py](https://github.com/yjshiki/leetcode/blob/master/code/python/commonChars.py)|Easy
 
 
 
