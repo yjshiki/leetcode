@@ -111,3 +111,4 @@ Here are some others' solutions that are quite impressive and worth learning.
 | Number    |    Problem Name | Method|Difficulty|
 |:-----------:|-----------------|:------------:|:------------:|
 |21| Merge Two Sorted Lists|[recursion in Java](https://leetcode.com/problems/merge-two-sorted-lists/discuss/9715/Java-1-ms-4-lines-codes-using-recursion)|Easy
+|252|Meeting Rooms|["Lambda" method in Java](https://leetcode.com/problems/meeting-rooms/discuss/67786/AC-clean-Java-solution)|Easy
