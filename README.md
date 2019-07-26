@@ -108,7 +108,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |771|Jewels and Stones|[numJewelsInStones.java](https://github.com/yjshiki/leetcode/blob/master/code/java/numJewelsInStones.java)|[numJewelsInStones.py](https://github.com/yjshiki/leetcode/blob/master/code/python/numJewelsInStones.py)|Easy
 |977|Squares of a Sorted Array|[sortedSquares.java](https://github.com/yjshiki/leetcode/blob/master/code/java/sortedSquares.java)|[sortedSquares.py](https://github.com/yjshiki/leetcode/blob/master/code/python/sortedSquares.py)|Easy
 |1002|Find Common Characters|[commonChars.java](https://github.com/yjshiki/leetcode/blob/master/code/java/commonChars.java)|[commonChars.py](https://github.com/yjshiki/leetcode/blob/master/code/python/commonChars.py)|Easy
-
+|1086|High Five|[highFive.java](https://github.com/yjshiki/leetcode/blob/master/code/java/highFive.java)|[highFive.py](https://github.com/yjshiki/leetcode/blob/master/code/python/highFive.py)|Easy
 
 
 Here are some others' solutions that are quite impressive and worth learning.
