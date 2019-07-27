@@ -104,6 +104,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |287|Find the Duplicate Number |[findDuplicate.java](https://github.com/yjshiki/leetcode/blob/master/code/java/findDuplicate.java)|[findDuplicate.py](findDuplicate.py)|Medium
 |290|Word Pattern|[wordPattern.java](https://github.com/yjshiki/leetcode/blob/master/code/java/wordPattern.java)|[wordPattern.py](https://github.com/yjshiki/leetcode/blob/master/code/python/wordPattern.py)|Easy
 |292|Nim Game|[canWinNim.java](https://github.com/yjshiki/leetcode/blob/master/code/java/canWinNim.java)|[canWinNim.py](https://github.com/yjshiki/leetcode/blob/master/code/python/canWinNim.py)|Easy
+|347|Top K Frequent Elements |[]()|[topKFrequent.py](https://github.com/yjshiki/leetcode/blob/master/code/python/topKFrequent.py)|Medium
 |412|Fizz Buzz|[fizzBuzz.java](https://github.com/yjshiki/leetcode/blob/master/code/java/fizzBuzz.java)|[fizzBuzz.py](https://github.com/yjshiki/leetcode/blob/master/code/python/fizzBuzz.py)|Easy
 |680|Valid Palindrome II|[validPalindromeII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/validPalindromeII.java)|[validPalindromeII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/validPalindromeII.py)|Easy
 |771|Jewels and Stones|[numJewelsInStones.java](https://github.com/yjshiki/leetcode/blob/master/code/java/numJewelsInStones.java)|[numJewelsInStones.py](https://github.com/yjshiki/leetcode/blob/master/code/python/numJewelsInStones.py)|Easy
