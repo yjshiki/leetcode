@@ -83,7 +83,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |167|Two Sum II - Input array is sorted |[twoSumII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/twoSumII.java)|[twoSumII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/twoSumII.py)|Easy
 |168|Excel Sheet Column Title|[convertToTitle.java](https://github.com/yjshiki/leetcode/blob/master/code/java/convertToTitle.java)|[convertToTitle.py](https://github.com/yjshiki/leetcode/blob/master/code/python/convertToTitle.py)|Easy
 |169|Majority Element |[majorityElement.java](https://github.com/yjshiki/leetcode/blob/master/code/java/majorityElement.java)|[majorityElement.py](https://github.com/yjshiki/leetcode/blob/master/code/python/majorityElement.py)|Easy
-|170|Two Sum III-Data structure design|question locked|question locked  |Easy
+|170|Two Sum III-Data structure design| | |Easy
 |171|Excel Sheet Column Number|[titleToNumber.java](https://github.com/yjshiki/leetcode/blob/master/code/java/titleToNumber.java)|[titleToNumber.py](https://github.com/yjshiki/leetcode/blob/master/code/python/titleToNumber.py)|Easy
 |187|Repeated DNA Sequences|[findRepeatedDnaSequences.java](https://github.com/yjshiki/leetcode/blob/master/code/java/findRepeatedDnaSequences.java)|[findRepeatedDnaSequences.py](https://github.com/yjshiki/leetcode/blob/master/code/python/findRepeatedDnaSequences.py)|Medium
 |202|Happy Number|[isHappy.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isHappy.java)|[isHappy.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isHappy.py)|Easy
