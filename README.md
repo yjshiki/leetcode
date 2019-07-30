@@ -113,7 +113,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |1086|High Five|[highFive.java](https://github.com/yjshiki/leetcode/blob/master/code/java/highFive.java)|[highFive.py](https://github.com/yjshiki/leetcode/blob/master/code/python/highFive.py)|Easy
 
 
-Here are some others' solutions that are quite impressive and worth learning, the program name directly links to the original answer.
+Here are some others' solutions that are quite impressive and worth learning.
 
 | Number    |    Problem Name | Method|Difficulty|
 |:-----------:|-----------------|:------------:|:------------:|
