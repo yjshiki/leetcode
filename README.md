@@ -106,9 +106,12 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |292|Nim Game|[canWinNim.java](https://github.com/yjshiki/leetcode/blob/master/code/java/canWinNim.java)|[canWinNim.py](https://github.com/yjshiki/leetcode/blob/master/code/python/canWinNim.py)|Easy
 |347|Top K Frequent Elements |[topKFrequent.java](https://github.com/yjshiki/leetcode/blob/master/code/java/topKFrequent.java)|[topKFrequent.py](https://github.com/yjshiki/leetcode/blob/master/code/python/topKFrequent.py)|Medium
 |412|Fizz Buzz|[fizzBuzz.java](https://github.com/yjshiki/leetcode/blob/master/code/java/fizzBuzz.java)|[fizzBuzz.py](https://github.com/yjshiki/leetcode/blob/master/code/python/fizzBuzz.py)|Easy
+|442|Find All Duplicates in an Array|[findDuplicates.java](https://github.com/yjshiki/leetcode/blob/master/code/java/findDuplicates.java)|[findDuplicates.py](https://github.com/yjshiki/leetcode/blob/master/code/python/findDuplicates.py)|Medium
 |680|Valid Palindrome II|[validPalindromeII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/validPalindromeII.java)|[validPalindromeII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/validPalindromeII.py)|Easy
 |771|Jewels and Stones|[numJewelsInStones.java](https://github.com/yjshiki/leetcode/blob/master/code/java/numJewelsInStones.java)|[numJewelsInStones.py](https://github.com/yjshiki/leetcode/blob/master/code/python/numJewelsInStones.py)|Easy
+|973|K Closest Points to Origin|[kClosest.java](https://github.com/yjshiki/leetcode/blob/master/code/java/kClosest.java)|[kClosest.py](https://github.com/yjshiki/leetcode/blob/master/code/python/kClosest.py)|Medium
 |977|Squares of a Sorted Array|[sortedSquares.java](https://github.com/yjshiki/leetcode/blob/master/code/java/sortedSquares.java)|[sortedSquares.py](https://github.com/yjshiki/leetcode/blob/master/code/python/sortedSquares.py)|Easy
+|985|Sum of Even Numbers After Queries|[sumEvenAfterQueries.java](https://github.com/yjshiki/leetcode/blob/master/code/java/sumEvenAfterQueries.java)|[sumEvenAfterQueries.py](https://github.com/yjshiki/leetcode/blob/master/code/python/sumEvenAfterQueries.py)|Easy
 |1002|Find Common Characters|[commonChars.java](https://github.com/yjshiki/leetcode/blob/master/code/java/commonChars.java)|[commonChars.py](https://github.com/yjshiki/leetcode/blob/master/code/python/commonChars.py)|Easy
 |1086|High Five|[highFive.java](https://github.com/yjshiki/leetcode/blob/master/code/java/highFive.java)|[highFive.py](https://github.com/yjshiki/leetcode/blob/master/code/python/highFive.py)|Easy
 
