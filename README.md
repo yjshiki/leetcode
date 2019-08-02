@@ -56,6 +56,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |67| Add Binary|[]()|[addBinary.py](https://github.com/yjshiki/leetcode/blob/master/code/python/addBinary.py)|Easy
 |69|Sqrt(x)|[mySqrt.java](https://github.com/yjshiki/leetcode/blob/master/code/java/mySqrt.java)|[mySqrt.py](https://github.com/yjshiki/leetcode/blob/master/code/python/mySqrt.py)|Easy
 |70|Climbing Stairs|[climbStairs.java](https://github.com/yjshiki/leetcode/blob/master/code/java/climbStairs.java)|[climbStairs.py](https://github.com/yjshiki/leetcode/blob/master/code/python/climbStairs.py)|Easy
+|71|Simplify Path|[simplifyPath.java](https://github.com/yjshiki/leetcode/blob/master/code/java/simplifyPath.java)|[simplifyPath.py](https://github.com/yjshiki/leetcode/blob/master/code/python/simplifyPath.py)|Medium
 |73|Set Matrix Zeroes|[setZeroes.java](https://github.com/yjshiki/leetcode/blob/master/code/java/setZeroes.java)|[setZeroes.py](https://github.com/yjshiki/leetcode/blob/master/code/python/setZeroes.py)|Medium
 |74|Search a 2D Matrix|[searchMatrix.java](https://github.com/yjshiki/leetcode/blob/master/code/java/searchMatrix.java)|[searchMatrix.py](https://github.com/yjshiki/leetcode/blob/master/code/python/searchMatrix.py)|Medium
 |75|Sort Colors |[sortColors.java](https://github.com/yjshiki/leetcode/blob/master/code/java/sortColors.java) |[sortColors.py](https://github.com/yjshiki/leetcode/blob/master/code/python/sortColors.py)|Medium
