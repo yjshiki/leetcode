@@ -109,7 +109,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |322|Coin Change|[coinChange.java](https://github.com/yjshiki/leetcode/blob/master/code/java/coinChange.java)|[coinChange.py](https://github.com/yjshiki/leetcode/blob/master/code/python/coinChange.py)|Medium
 |347|Top K Frequent Elements |[topKFrequent.java](https://github.com/yjshiki/leetcode/blob/master/code/java/topKFrequent.java)|[topKFrequent.py](https://github.com/yjshiki/leetcode/blob/master/code/python/topKFrequent.py)|Medium
 |394|Decode String|[decodeString.java](https://github.com/yjshiki/leetcode/blob/master/code/java/decodeString.java)|[decodeString.py](https://github.com/yjshiki/leetcode/blob/master/code/python/decodeString.py)|Medium
-|394|Decode String
+|394|Decode String|[]()|[decodeString.py](https://github.com/yjshiki/leetcode/blob/master/code/python/decodeString.py)| Medium
 |412|Fizz Buzz|[fizzBuzz.java](https://github.com/yjshiki/leetcode/blob/master/code/java/fizzBuzz.java)|[fizzBuzz.py](https://github.com/yjshiki/leetcode/blob/master/code/python/fizzBuzz.py)|Easy
 |442|Find All Duplicates in an Array|[findDuplicates.java](https://github.com/yjshiki/leetcode/blob/master/code/java/findDuplicates.java)|[findDuplicates.py](https://github.com/yjshiki/leetcode/blob/master/code/python/findDuplicates.py)|Medium
 |560|Subarray Sum Equals K|[subarraySum.java](https://github.com/yjshiki/leetcode/blob/master/code/java/subarraySum.java)|[subarraySum.py](https://github.com/yjshiki/leetcode/blob/master/code/python/subarraySum.py)|Medium
