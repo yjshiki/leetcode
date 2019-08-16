@@ -8,7 +8,8 @@ class Solution {
         int res = 0;
         for(int i=0;i<height;i++)
             for(int j =0;j<width;j++)
-                if(grid[i][j] == 1){                 
+                if(grid[i][j] == 1){
+                    
                     res = Math.max(res,DFS(i,j,height,width,grid));
                 }
         return res;
@@ -20,7 +21,8 @@ class Solution {
             return 0;
         else{
             grid[i][j] = 0;
-            return 1 + DFS(i-1,j,height,width,grid) + DFS(i+1,j,height,width,grid) + DFS(i,j+1,height,width,grid) + DFS(i,j-1,height,width,grid);
+            return 1 + DFS(i-1,j,height,width,grid) + DFS(i+1,j,height,width,grid) + 
+                DFS(i,j+1,height,width,grid) + DFS(i,j-1,height,width,grid);
         }
     }
 }
