@@ -58,6 +58,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |69|Sqrt(x)|[mySqrt.java](https://github.com/yjshiki/leetcode/blob/master/code/java/mySqrt.java)|[mySqrt.py](https://github.com/yjshiki/leetcode/blob/master/code/python/mySqrt.py)|Easy
 |70|Climbing Stairs|[climbStairs.java](https://github.com/yjshiki/leetcode/blob/master/code/java/climbStairs.java)|[climbStairs.py](https://github.com/yjshiki/leetcode/blob/master/code/python/climbStairs.py)|Easy
 |71|Simplify Path|[simplifyPath.java](https://github.com/yjshiki/leetcode/blob/master/code/java/simplifyPath.java)|[simplifyPath.py](https://github.com/yjshiki/leetcode/blob/master/code/python/simplifyPath.py)|Medium
+|72|Edit Distance|[minDistance.java](https://github.com/yjshiki/leetcode/blob/master/code/java/minDistance.java)|[minDistance.py](https://github.com/yjshiki/leetcode/blob/master/code/python/minDistance.py)|Hard
 |73|Set Matrix Zeroes|[setZeroes.java](https://github.com/yjshiki/leetcode/blob/master/code/java/setZeroes.java)|[setZeroes.py](https://github.com/yjshiki/leetcode/blob/master/code/python/setZeroes.py)|Medium
 |74|Search a 2D Matrix|[searchMatrix.java](https://github.com/yjshiki/leetcode/blob/master/code/java/searchMatrix.java)|[searchMatrix.py](https://github.com/yjshiki/leetcode/blob/master/code/python/searchMatrix.py)|Medium
 |75|Sort Colors |[sortColors.java](https://github.com/yjshiki/leetcode/blob/master/code/java/sortColors.java) |[sortColors.py](https://github.com/yjshiki/leetcode/blob/master/code/python/sortColors.py)|Medium
@@ -87,6 +88,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |154|Find Minimum in Rotated Sorted Array II|||Medium
 |155|Min Stack|[MinStack.java](https://github.com/yjshiki/leetcode/blob/master/code/java/MinStack.java)|[MinStack.py](https://github.com/yjshiki/leetcode/blob/master/code/python/MinStack.py)|Medium
 |160|Intersection of Two Linked Lists|[getIntersectionNode.java](https://github.com/yjshiki/leetcode/blob/master/code/java/getIntersectionNode.java)|[getIntersectionNode.py](https://github.com/yjshiki/leetcode/blob/master/code/python/getIntersectionNode.py)|Easy
+|161|One Edit Distance|[isOneEditDistance.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isOneEditDistance.java)|[isOneEditDistance.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isOneEditDistance.py)|Medium
 |167|Two Sum II - Input array is sorted |[twoSumII.java](https://github.com/yjshiki/leetcode/blob/master/code/java/twoSumII.java)|[twoSumII.py](https://github.com/yjshiki/leetcode/blob/master/code/python/twoSumII.py)|Easy
 |168|Excel Sheet Column Title|[convertToTitle.java](https://github.com/yjshiki/leetcode/blob/master/code/java/convertToTitle.java)|[convertToTitle.py](https://github.com/yjshiki/leetcode/blob/master/code/python/convertToTitle.py)|Easy
 |169|Majority Element |[majorityElement.java](https://github.com/yjshiki/leetcode/blob/master/code/java/majorityElement.java)|[majorityElement.py](https://github.com/yjshiki/leetcode/blob/master/code/python/majorityElement.py)|Easy
