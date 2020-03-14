@@ -29,7 +29,6 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |28|Implement strStr()|[strStr.java](https://github.com/yjshiki/leetcode/blob/master/code/java/strStr.java)|[strStr.py](https://github.com/yjshiki/leetcode/blob/master/code/python/strStr.py)|Easy
 |29|Divide Two Integers| |[divide.py](https://github.com/yjshiki/leetcode/tree/master/code/python/divide.py) |Medium
 |33|Search in Rotated Sorted Array| |[search.py](https://github.com/yjshiki/leetcode/blob/master/code/python/search.py) |Medium
-|34|Find First and Last Position of Element in Sorted Array| | |Medium
 |35|Search Insert Position|[searchInsert.java](https://github.com/yjshiki/leetcode/blob/master/code/java/searchInsert.java)|[searchInsert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/searchInsert.py)|Easy
 |36|Valid Sudoku|[]()|[isValidSudoku.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isValidSudoku.py)|Medium
 |41|First Missing Positive|[firstMissingPositive.java](https://github.com/yjshiki/leetcode/blob/master/code/java/firstMissingPositive.java)|[firstMissingPositive.py](https://github.com/yjshiki/leetcode/blob/master/code/python/firstMissingPositive.py)|Hard
