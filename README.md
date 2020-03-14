@@ -12,7 +12,6 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |7          |Reverse Integer|[reverse.java](https://github.com/yjshiki/leetcode/blob/master/code/java/reverse.java)|[reverse.py](https://github.com/yjshiki/leetcode/blob/master/code/python/reverse.py)|Easy
 |8          |String to Integer (atoi)|[myAtoi.java](https://github.com/yjshiki/leetcode/blob/master/code/java/myAtoi.java)|[myAtoi.py](https://github.com/yjshiki/leetcode/blob/master/code/python/myAtoi.py) |Medium
 |9          |Palindrome Number|[isPalindrome.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isPalindrome.java)|[isPalindrome.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isPalindrome.py)  |Easy
-|10          |Regular Expression Matching |[]() |[]() | Hard
 |11          |Container With Most Water|[maxArea.java](https://github.com/yjshiki/leetcode/blob/master/code/java/maxArea.java)|  |Medium
 |12          |Integer to Roman|[intToRoman.java](https://github.com/yjshiki/leetcode/blob/master/code/java/intToRoman.java)|[intToRoman.py](https://github.com/yjshiki/leetcode/blob/master/code/python/intToRoman.py)  |Medium
 |13          |Roman to Integer|[romanToInt.java](https://github.com/yjshiki/leetcode/blob/master/code/java/romanToInt.java)|[romanToInt.py](https://github.com/yjshiki/leetcode/blob/master/code/python/romanToInt.py) |Easy
@@ -25,16 +24,10 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |20|Valid Parentheses|[isValid.java](https://github.com/yjshiki/leetcode/blob/master/code/java/isValid.java) |[isValid.py](https://github.com/yjshiki/leetcode/blob/master/code/python/isValid.py) |Easy
 |21| Merge Two Sorted Lists|[mergeTwoLists.java](https://github.com/yjshiki/leetcode/blob/master/code/java/mergeTwoLists.java)|[mergeTwoLists.py](https://github.com/yjshiki/leetcode/blob/master/code/python/mergeTwoLists.py)|Easy
 |22| Generate Parentheses|[generateParenthesis.java](https://github.com/yjshiki/leetcode/blob/master/code/java/generateParenthesis.java)  | | Medium
-|23| Merge k Sorted Lists| |[]() |Hard
-|24| Swap Nodes in Pairs| | |Medium
-|25| Reverse Nodes in k-Group| | |Hard
 |26| Remove Duplicates from Sorted Array|[removeDuplicates.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeDuplicates.java)|[removeDuplicates.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeDuplicates.py)|Easy
 |27|Remove Element|[removeElement.java](https://github.com/yjshiki/leetcode/blob/master/code/java/removeElement.java)|[removeElement.py](https://github.com/yjshiki/leetcode/blob/master/code/python/removeElement.py)|Easy
 |28|Implement strStr()|[strStr.java](https://github.com/yjshiki/leetcode/blob/master/code/java/strStr.java)|[strStr.py](https://github.com/yjshiki/leetcode/blob/master/code/python/strStr.py)|Easy
 |29|Divide Two Integers| |[divide.py](https://github.com/yjshiki/leetcode/tree/master/code/python/divide.py) |Medium
-|30|Substring with Concatenation of All Words| | |Hard
-|31|Next Permutation| | |Medium
-|32|Longest Valid Parentheses| | |Hard
 |33|Search in Rotated Sorted Array| |[search.py](https://github.com/yjshiki/leetcode/blob/master/code/python/search.py) |Medium
 |34|Find First and Last Position of Element in Sorted Array| | |Medium
 |35|Search Insert Position|[searchInsert.java](https://github.com/yjshiki/leetcode/blob/master/code/java/searchInsert.java)|[searchInsert.py](https://github.com/yjshiki/leetcode/blob/master/code/python/searchInsert.py)|Easy
@@ -146,9 +139,4 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |1086|High Five|[highFive.java](https://github.com/yjshiki/leetcode/blob/master/code/java/highFive.java)|[highFive.py](https://github.com/yjshiki/leetcode/blob/master/code/python/highFive.py)|Easy
 
 
-Here are some others' solutions that are quite impressive and worth learning.
 
-| Number    |    Problem Name | Method|Difficulty|
-|:-----------:|-----------------|:------------:|:------------:|
-|21| Merge Two Sorted Lists|[recursion in Java](https://leetcode.com/problems/merge-two-sorted-lists/discuss/9715/Java-1-ms-4-lines-codes-using-recursion)|Easy
-|252|Meeting Rooms|["Lambda" method in Java](https://leetcode.com/problems/meeting-rooms/discuss/67786/AC-clean-Java-solution)|Easy
