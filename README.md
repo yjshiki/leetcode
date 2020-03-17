@@ -136,6 +136,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |985|Sum of Even Numbers After Queries|[sumEvenAfterQueries.java](https://github.com/yjshiki/leetcode/blob/master/code/java/sumEvenAfterQueries.java)|[sumEvenAfterQueries.py](https://github.com/yjshiki/leetcode/blob/master/code/python/sumEvenAfterQueries.py)|Easy
 |1002|Find Common Characters|[commonChars.java](https://github.com/yjshiki/leetcode/blob/master/code/java/commonChars.java)|[commonChars.py](https://github.com/yjshiki/leetcode/blob/master/code/python/commonChars.py)|Easy
 |1086|High Five|[highFive.java](https://github.com/yjshiki/leetcode/blob/master/code/java/highFive.java)|[highFive.py](https://github.com/yjshiki/leetcode/blob/master/code/python/highFive.py)|Easy
+|1185|Day of the Week|[dayOfTheWeek.java](https://github.com/yjshiki/leetcode/blob/master/code/java/dayOfTheWeek.java)|[dayOfTheWeek.py](https://github.com/yjshiki/leetcode/blob/master/code/python/dayOfTheWeek.py)|Easy
 
 
 
