@@ -144,6 +144,7 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |1086|High Five|[highFive.java](https://github.com/yjshiki/leetcode/blob/master/code/java/highFive.java)|[highFive.py](https://github.com/yjshiki/leetcode/blob/master/code/python/highFive.py)|Easy
 |1038|Binary Search Tree to Greater Sum Tree|[bstToGst.java](https://github.com/yjshiki/leetcode/blob/master/code/java/bstToGst.java)|[bstToGst.py](https://github.com/yjshiki/leetcode/blob/master/code/python/bstToGst.py)|Medium
 |1185|Day of the Week|[dayOfTheWeek.java](https://github.com/yjshiki/leetcode/blob/master/code/java/dayOfTheWeek.java)|[dayOfTheWeek.py](https://github.com/yjshiki/leetcode/blob/master/code/python/dayOfTheWeek.py)|Easy
+|1245|Tree Diameter|[treeDiameter.java](https://github.com/yjshiki/leetcode/blob/master/code/java/treeDiameter.java)|[treeDiameter.py](https://github.com/yjshiki/leetcode/blob/master/code/python/treeDiameter.py)|Medium
 
 
 
