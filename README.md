@@ -155,6 +155,6 @@ All the code could be directly pasted into leetcode and run. For the problems wi
 |1038|Binary Search Tree to Greater Sum Tree|[bstToGst.java](https://github.com/yjshiki/leetcode/blob/master/code/java/bstToGst.java)|[bstToGst.py](https://github.com/yjshiki/leetcode/blob/master/code/python/bstToGst.py)|Medium
 |1185|Day of the Week|[dayOfTheWeek.java](https://github.com/yjshiki/leetcode/blob/master/code/java/dayOfTheWeek.java)|[dayOfTheWeek.py](https://github.com/yjshiki/leetcode/blob/master/code/python/dayOfTheWeek.py)|Easy
 |1245|Tree Diameter|[treeDiameter.java](https://github.com/yjshiki/leetcode/blob/master/code/java/treeDiameter.java)|[treeDiameter.py](https://github.com/yjshiki/leetcode/blob/master/code/python/treeDiameter.py)|Medium
-
+|1394|Find Lucky Integer in an Array|[findLucky.java](https://github.com/yjshiki/leetcode/blob/master/code/java/findLucky.java)|[findLucky.py](https://github.com/yjshiki/leetcode/blob/master/code/python/findLucky.py)|Easy
 
 
